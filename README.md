@@ -27,9 +27,35 @@ A collection of my projects that I have already finished or am still working on.
 
   
 ### [Information service about types of teas](https://github.com/MartynaKaczmarczyk/Tea_service)
+
+1. Used technology:
+
+- Backend: Java, Spring Boot, Gradle, Hibernate, HSQLDB, Lombok
+
+
 ### [Detector in photos of people smoking](https://github.com/MartynaKaczmarczyk/Int_Obliczeniowa_projekt01)
+
+1. Used technology:
+
+- Backend: Python, Tenserflow
+- Frontend: React
+
+  
 ### [Fullstack Goodreads clone project](https://github.com/MartynaKaczmarczyk/Goodreads_clone?tab=readme-ov-file)
+
+1. Used technology: MERN
+
+- Backend: JavaScript, MongoDb
+- Frontend: React
+
+
 ### [Hanoi Tower project](https://gitlab.com/Martyna_Kaczmarczyk/wstep_do_programowania)
+
+1. Used technology:
+
+- Backend: Python
+
+
 ### [Short tasks on computational intelligence](https://github.com/MartynaKaczmarczyk/Inteligencja_obliczeniowa)
 ### [Short tasks about Cloud Technology](https://gitlab.com/Martyna_Kaczmarczyk/technologie-chmurowe)
 ### [Short tasks written in golang language](https://gitlab.com/Martyna_Kaczmarczyk/golang)
