@@ -8,6 +8,13 @@ A collection of my projects that I have already finished or am still working on.
      
     - Backend: JavaScript
     - Frontend: React
+
+  1. Ingredients
+
+- spaghetti
+- marinara sauce
+- salt
+
     
 ### [An application that helps you take care of your houseplants](https://github.com/MartynaKaczmarczyk/Project_Frontend2)
 ### [Service about pet friendly restaurants](https://github.com/MartynaKaczmarczyk/pet_friendly_restaurants)
