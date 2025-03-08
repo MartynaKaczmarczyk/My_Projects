@@ -24,8 +24,6 @@ The second one was created by me as a descop application. Used technology:
 - Frontend: Angular, TypeScript
 
 
-
-https://github.com/Pokrzw/Plant-Tracker
   
 ### [Service about pet friendly restaurants](https://github.com/MartynaKaczmarczyk/pet_friendly_restaurants)
 
