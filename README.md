@@ -72,7 +72,7 @@ A collection of my projects that I have already finished or am still working on.
 
 1. Used technology:
 
-- Backend: Golnag
+- Backend: Golang
 
 
 
