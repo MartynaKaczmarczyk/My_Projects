@@ -12,7 +12,7 @@ A collection of my projects that I have already finished or am still working on.
     
 ### An application that helps you take care of your houseplants
 
-##### [Mobile application for Android](https://github.com/Pokrzw/Plant-Tracker)
+##### [Mobile application for Android (Group Project)](https://github.com/Pokrzw/Plant-Tracker)
 This topic is shared between two projects created in completely different technologies. They differ partly in their functions and activities. The first one is a group project created in Android Studio for mobile devices. Used technology:
 
 - Kotlin, Jetpack
