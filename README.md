@@ -10,12 +10,22 @@ A collection of my projects that I have already finished or am still working on.
 - Frontend: React
   
     
-### [An application that helps you take care of your houseplants](https://github.com/MartynaKaczmarczyk/Project_Frontend2)
+### An application that helps you take care of your houseplants
 
-1. Used technology:
+##### [Mobile application for Android](https://github.com/Pokrzw/Plant-Tracker)
+This topic is shared between two projects created in completely different technologies. They differ partly in their functions and activities. The first one is a group project created in Android Studio for mobile devices. Used technology:
+
+- Kotlin, Jetpack
+
+##### [Descop application](https://github.com/MartynaKaczmarczyk/Project_Frontend2)
+The second one wwas created by me as a descop application. Used technology:
 
 - Backend: Java, Spring Boot, Gradle, Hibernate, PostgresSQL, Lombok
 - Frontend: Angular, TypeScript
+
+
+
+https://github.com/Pokrzw/Plant-Tracker
   
 ### [Service about pet friendly restaurants](https://github.com/MartynaKaczmarczyk/pet_friendly_restaurants)
 
