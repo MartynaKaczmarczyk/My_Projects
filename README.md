@@ -57,8 +57,22 @@ A collection of my projects that I have already finished or am still working on.
 
 
 ### [Short tasks on computational intelligence](https://github.com/MartynaKaczmarczyk/Inteligencja_obliczeniowa)
+
+1. Used technology:
+
+- Backend: Python, Tenserflow
+
 ### [Short tasks about Cloud Technology](https://gitlab.com/Martyna_Kaczmarczyk/technologie-chmurowe)
+
+1. Used technology:
+
+- mostely process automation: Docker, Kubernetes
+  
 ### [Short tasks written in golang language](https://gitlab.com/Martyna_Kaczmarczyk/golang)
+
+1. Used technology:
+
+- Backend: Golnag
 
 
 
