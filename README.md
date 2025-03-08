@@ -4,7 +4,8 @@ A collection of my projects that I have already finished or am still working on.
 
 ### [Connection to official api of Polish National Bank to get current exchange rates](https://github.com/MartynaKaczmarczyk/MeetDynatraceProjects)
 
-  1. Used technology: 
+  1. Used technology:
+     
     - Backend: JavaScript
     - Frontend: React
     
