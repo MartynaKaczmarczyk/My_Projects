@@ -17,7 +17,7 @@ This topic is shared between two projects created in completely different techno
 
 - Kotlin, Jetpack
 
-##### [Descop application](https://github.com/MartynaKaczmarczyk/Project_Frontend2)
+##### [Desktop application](https://github.com/MartynaKaczmarczyk/Project_Frontend2)
 The second one was created by me as a descop application. Used technology:
 
 - Backend: Java, Spring Boot, Gradle, Hibernate, PostgresSQL, Lombok
